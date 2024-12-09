@@ -79,3 +79,5 @@ env.bak/
 venv.bak/
 
 results/
+
+data/
